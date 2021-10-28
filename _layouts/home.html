@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   <h2>The climbs</h2>
-  <p>You can find a map of all the climbs at {{ '/map.md' | relative_url }}</p>
+  <a href="{{ '/map' | relative_url }}">There's also map showing all the climbs.</a>
   <ol>
   {% for route in site.the_routes %}
     <li><a href="{{ route.url | relative_url }}">{{ route.title }}</a> - {{ route.distance }}, {{ route.ascent }}, {{ route.gradient }}</li>
