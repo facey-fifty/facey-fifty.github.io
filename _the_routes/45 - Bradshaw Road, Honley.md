@@ -4,7 +4,7 @@ title: No 45 - Bradshaw Road, Honley
 ascent: 490ft
 distance: 1.2 miles
 gradient: 7.7%
-segment_id: 18595783
+segment_id: 23537716
 map_ref: SE 136 116
 ---
 Enter Honley village centre from the A6024, continue through the centre and drop down to

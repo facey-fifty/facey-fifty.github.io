@@ -4,7 +4,7 @@ title: No 27 - Thurstonland Bank, Thurstonland
 ascent: 367ft
 distance: 0.8 miles
 gradient: 8.6%
-segment_id: 18583530
+segment_id: 23535840
 map_ref: SE 154 103
 ---
 

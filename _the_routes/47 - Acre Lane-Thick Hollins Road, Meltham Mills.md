@@ -4,7 +4,7 @@ title: No 47 - Acre Lane/Thick Hollins Road, Meltham Mills
 ascent: 549ft
 distance: 1.6 miles
 gradient: 6.5%
-segment_id: 18589595
+segment_id: 23537844
 map_ref: SE 108 106
 ---
 Starting point is the same as the previous climb. After doing the short climb previously this is

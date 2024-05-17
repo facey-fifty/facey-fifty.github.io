@@ -4,7 +4,7 @@ title: No 31 - Sheffield Road, New Mill
 ascent: 618ft
 distance: 2.8 miles
 gradient: 4.1%
-segment_id: 18583649
+segment_id: 23536086
 map_ref: SE 162 088
 ---
 

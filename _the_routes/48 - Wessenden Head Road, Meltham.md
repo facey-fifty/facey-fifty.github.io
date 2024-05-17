@@ -4,7 +4,7 @@ title: No 48 - Wessenden Head Road, Meltham
 ascent: 906ft
 distance: 2.2 miles
 gradient: 7.8%
-segment_id: 18589186
+segment_id: 23537920
 map_ref: SE 100 106
 ---
 Wessenden Head Road can be found right in the middle of Meltham directly opposite the

@@ -4,7 +4,7 @@ title: No 38 - Upperthong Lane, Holmfirth
 ascent: 421ft
 distance: 0.9 miles
 gradient: 8.9%
-segment_id: 18589271
+segment_id: 23536883
 map_ref: SE 141 081
 ---
 Leave the traffic lights in Holmfirth towards Greenfield and Holme Moss on the main A6024

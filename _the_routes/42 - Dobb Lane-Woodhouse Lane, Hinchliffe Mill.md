@@ -4,7 +4,7 @@ title: No 42 - Dobb Lane/Woodhouse Lane, Hinchliffe Mill
 ascent: 471ft
 distance: 0.9 miles
 gradient: 9.9%
-segment_id: 18589442
+segment_id: 23537423
 map_ref: SE 125 070
 ---
 This climb can be found opposite the Londis shop, (see No 41) by turning left into Coop Lane

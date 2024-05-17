@@ -4,7 +4,7 @@ title: No 25 - Gynn Lane/Hall Ing Lane, Honley
 ascent: 563ft
 distance: 1.5 miles
 gradient: 7.1%
-segment_id: 18572493
+segment_id: 23516629
 map_ref: SE 142 119
 ---
 

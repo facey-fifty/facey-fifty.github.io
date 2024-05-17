@@ -4,7 +4,7 @@ title: No 50 - Meltham Road/Church Lane, Netherton
 ascent: 352ft
 distance: 1.2 miles
 gradient: 5.5%
-segment_id: 18595823
+segment_id: 23538033
 map_ref: SE 130 137
 ---
 This last climb of the book starts at the bottom of the “Big Valley” approximately two miles

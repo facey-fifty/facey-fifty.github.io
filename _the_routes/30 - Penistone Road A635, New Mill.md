@@ -5,7 +5,7 @@ distance: 1.4 miles
 ascent: 493ft
 map_ref: SE 162 088
 gradient: 6.6%
-segment_id: 18583496
+segment_id: 23536024
 ---
 This main road climb the A635 starts at the crossroads in the centre of New Mill and is
 probably the busiest of the few main roads I have chosen. Outside rush hours it isn’t too bad

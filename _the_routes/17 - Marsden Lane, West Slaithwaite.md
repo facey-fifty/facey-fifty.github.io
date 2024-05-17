@@ -4,7 +4,7 @@ title: No 17 - Marsden Lane, West Slaithwaite
 ascent: 379ft
 distance: 1.3 miles
 gradient: 5.5%
-segment_id: 18571807
+segment_id: 23516052
 map_ref: SE 059 129
 ---
 

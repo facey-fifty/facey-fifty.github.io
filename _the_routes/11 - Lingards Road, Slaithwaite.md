@@ -4,7 +4,7 @@ title: No 11 - Lingards Road, Slaithwaite
 ascent: 381ft
 distance: 0.8 miles
 gradient: 9%
-segment_id: 18571612
+segment_id: 23515548
 map_ref: SE 076 136
 ---
 The start of this climb is from the same crossroads where the previous climb up Yew Tree

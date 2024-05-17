@@ -5,7 +5,7 @@ distance: 1.7 miles
 ascent: 553ft
 map_ref: SE 138 151
 gradient: 6.1%
-segment_id: 18572369
+segment_id: 23516381
 ---
 
 This is the first of thirty climbs in the Holme Valley and it is a tough one to get you used to

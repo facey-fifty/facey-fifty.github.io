@@ -4,7 +4,7 @@ title: No 16 - White Hill/Shaw Field Lane, West Slaithwaite
 ascent: 369ft
 distance: 0.6 miles
 gradient: 11.6%
-segment_id: 18571859
+segment_id: 23516000
 map_ref: SE 062 132
 ---
 

@@ -5,7 +5,7 @@ distance: 1.0 miles
 ascent: 515ft
 map_ref: SE 166 074
 gradient: 9.7%
-segment_id: 18918132
+segment_id: 23536141
 ---
 To find this climb follow the Sheffield Road A616 from New Mill towards Sheffield and when
 you pass the Red Lion PH take the next left into South View. Now this climb starts here and

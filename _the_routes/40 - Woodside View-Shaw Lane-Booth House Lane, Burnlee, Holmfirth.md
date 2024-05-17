@@ -4,7 +4,7 @@ title: No 40 - Woodside View/Shaw Lane/Booth House Lane, Burnlee, Holmfirth
 ascent: 412ft
 distance: 1.2 miles
 gradient: 6.5%
-segment_id: 18589401
+segment_id: 23537066
 map_ref: SE 128 073
 ---
 

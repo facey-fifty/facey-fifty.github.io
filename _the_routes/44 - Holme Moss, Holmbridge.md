@@ -4,7 +4,7 @@ title: No 44 - Holme Moss, Holmbridge
 ascent: 1102ft
 distance: 3.0 miles
 gradient: 7%
-segment_id: 18589309
+segment_id: 23537651
 map_ref: SE 120 066
 ---
 This climb was used in the summer of 2014 by the Tour de France and on several other

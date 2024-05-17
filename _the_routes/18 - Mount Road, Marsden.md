@@ -4,7 +4,7 @@ title: No 18 - Mount Road, Marsden
 ascent: 546ft
 distance: 1.3 miles
 gradient: 8%
-segment_id: 18571668
+segment_id: 23516098
 map_ref: SE 049 113
 ---
 

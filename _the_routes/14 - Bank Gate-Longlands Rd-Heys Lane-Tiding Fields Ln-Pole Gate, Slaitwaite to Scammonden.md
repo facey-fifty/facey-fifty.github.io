@@ -4,7 +4,7 @@ title: No 14 - Bank Gate/Longlands Rd/Heys Lane/Tiding Fields Ln/Pole Gate, Slai
 ascent: 663ft
 distance: 1.8 miles
 gradient: 6.9%
-segment_id: 18572179
+segment_id: 23515795
 map_ref: SE 079 140
 ---
 

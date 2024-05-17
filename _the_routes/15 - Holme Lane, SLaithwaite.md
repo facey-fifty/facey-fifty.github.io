@@ -5,7 +5,7 @@ distance: 1.2 miles
 ascent: 493ft
 map_ref: SE 078 140
 gradient: 7.7%
-segment_id: 18572114
+segment_id: 36856119
 ---
 
 As you can see from the map reference the road is only one hundred yards from the

@@ -4,7 +4,7 @@ title: No 29 - Sude Hill/Horn Lane, New Mill
 ascent: 348ft
 distance: 1.0 miles
 gradient: 6.6%
-segment_id: 18583546
+segment_id: 23535958
 map_ref: SE 163 087
 ---
 New Mill centre is where the next three climbs can be found. Turn left onto the A635 after

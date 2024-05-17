@@ -4,7 +4,7 @@ title: No 43 - Field End Lane, via Digley reservoir, Holmbridge
 ascent: 495ft
 distance: 1.3 miles
 gradient: 7.2%
-segment_id: 18589353
+segment_id: 23537566
 map_ref: SE 121 067
 ---
 Follow the West Yorkshire Cycle Route.

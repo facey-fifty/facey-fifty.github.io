@@ -4,7 +4,7 @@ title: No 33 - Butt Lane/ Dean Lane, Jackson Bridge to Flight Hill
 ascent: 703ft
 distance: 2.3 miles
 gradient: 5.8%
-segment_id: 18586660
+segment_id: 23536439
 map_ref: SE 164 073
 ---
 To reach the start of this climb, turn right at the crossroads just after the Red Lion on the

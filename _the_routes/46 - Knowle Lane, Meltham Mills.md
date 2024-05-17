@@ -4,7 +4,7 @@ title: No 46 - Knowle Lane, Meltham Mills
 ascent: 193ft
 distance: 0.3 Miles
 gradient: 12%
-segment_id: 18595885
+segment_id: 23537780
 map_ref: SE 108 106
 ---
 This climb can be found by following the B6108 towards Meltham from Huddersfield.

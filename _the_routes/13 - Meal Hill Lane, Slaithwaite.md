@@ -4,7 +4,7 @@ title: No 13 - Meal Hill Lane, Slaithwaite
 ascent: 472ft
 distance: 0.8 miles
 gradient: 11.1%
-segment_id: 18572153
+segment_id: 23515730
 map_ref: SE 079 142
 ---
 

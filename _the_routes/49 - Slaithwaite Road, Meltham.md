@@ -4,7 +4,7 @@ title: No 49 - Slaithwaite Road, Meltham
 ascent: 387ft
 distance: 1.2 miles
 gradient: 6.1%
-segment_id: 18595805
+segment_id: 23537968
 map_ref: SE 099 108
 ---
 

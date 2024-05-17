@@ -4,7 +4,7 @@ title: No 26 - Brockholes Lane, Brockholes
 ascent: 506ft
 distance: 1.2 miles
 gradient: 7.2%
-segment_id: 18583413
+segment_id: 36856446
 map_ref: SE 152 119
 ---
 

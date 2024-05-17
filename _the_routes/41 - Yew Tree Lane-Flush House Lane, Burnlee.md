@@ -4,7 +4,7 @@ title: No 41 - Yew Tree Lane/Flush House Lane, Burnlee
 ascent: 602ft
 distance: 1.9 miles
 gradient: 5.6%
-segment_id: 18589503
+segment_id: 23537233
 map_ref: SE 128 073
 ---
 This one starts about one mile west of Holmfirth off the main road to Holme Moss A6024.

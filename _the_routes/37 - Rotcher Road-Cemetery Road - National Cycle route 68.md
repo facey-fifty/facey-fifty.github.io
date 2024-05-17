@@ -4,7 +4,7 @@ title: No 37 - Rotcher Road/Cemetery Road - National Cycle route 68
 ascent: 895ft
 distance: 3.0 miles
 gradient: 5.6%
-segment_id: 18589237
+segment_id: 23536822
 map_ref: SE 142 081
 ---
 

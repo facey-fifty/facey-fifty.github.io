@@ -4,7 +4,7 @@ title: No 36 - Dunford Road, Holmfirth
 ascent: 538ft
 distance: 1.5 miles
 gradient: 6.8%
-segment_id: 18583788
+segment_id: 23536694
 map_ref: SE 142 081
 ---
 

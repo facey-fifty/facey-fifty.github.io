@@ -4,7 +4,7 @@ title: No 24 - Station Road/Northgate, Honley
 ascent: 353ft
 distance: 1.0 miles
 gradient: 6.6%
-segment_id: 18583474
+segment_id: 23516586
 map_ref: SE 141 120
 ---
 

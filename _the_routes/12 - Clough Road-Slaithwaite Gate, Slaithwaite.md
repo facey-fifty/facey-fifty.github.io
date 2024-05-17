@@ -4,7 +4,7 @@ title: No 12 - Clough Road/Slaithwaite Gate, Slaithwaite
 ascent: 645ft
 distance: 1.4 miles
 gradient: 8.7%
-segment_id: 18572222
+segment_id: 23515622
 map_ref: SE 082 145
 ---
 

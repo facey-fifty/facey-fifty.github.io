@@ -4,7 +4,7 @@ title: No 23 - Robin Hood Hill/Park Lane, Berry Brow
 ascent: 344ft
 distance: 0.8 miles
 gradient: 8.1%
-segment_id: 18572440
+segment_id: 23516531
 map_ref: SE 139 135
 ---
 

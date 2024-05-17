@@ -4,7 +4,7 @@ title: No 28 - Cold Hill Lane/Halstead Lane, New Mill
 ascent: 358ft
 distance: 1.5 miles
 gradient: 6.4%
-segment_id: 18583605
+segment_id: 23535901
 map_ref: SE 163 089
 ---
 

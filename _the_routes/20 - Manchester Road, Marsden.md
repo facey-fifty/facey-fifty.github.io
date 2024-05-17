@@ -4,7 +4,7 @@ title: No 20 - Manchester Road, Marsden
 ascent: 674ft
 distance: 3 miles
 gradient: 4.2%
-segment_id: 18571767
+segment_id: 23516243
 map_ref: SE 050 115
 ---
 

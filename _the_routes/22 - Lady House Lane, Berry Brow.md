@@ -4,7 +4,7 @@ title: No 22 - Lady House Lane, Berry Brow
 ascent: 312ft
 distance: 1.1 miles
 gradient: 5.3%
-segment_id: 18572408
+segment_id: 23516475
 map_ref: SE 139 138
 ---
 

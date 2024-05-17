@@ -4,7 +4,7 @@ title: No 39 - Greenfield Road, A635 Holmfirth
 ascent: 955ft
 distance: 4.1 miles
 gradient: 4.4%
-segment_id: 18589552
+segment_id: 23536981
 map_ref: SE 140 081
 ---
 

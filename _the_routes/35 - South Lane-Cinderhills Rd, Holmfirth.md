@@ -4,7 +4,7 @@ title: No 35 - South Lane/Cinderhills Rd, Holmfirth
 ascent: 301ft
 distance: 0.7 miles
 gradient: 8%
-segment_id: 18586720
+segment_id: 23536627
 map_ref: SE 142 081
 ---
 
