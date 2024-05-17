@@ -35,6 +35,9 @@ layout: default
 
   {%- if page.segment_id %}
   <div>
+    <iframe style="width:100%;height:450px;" src="https://veloviewer.com/segments/{{ page.segment_id }}/embed?default2d=y" frameborder="0" scrolling="no"></iframe>
+  </div>
+  <div>
   <iframe height='405' style="width: 100%;" frameBorder='0' allowtransparency="true" scrolling='no' src="https://www.strava.com/segments/{{ page.segment_id }}/embed"></iframe>
   </div>
   {%- endif %}
