@@ -17,3 +17,14 @@ after: |
 > I hope you enjoy trying these hills and that you then spread the word about cycling being one of the best pastimes one can experience.
 
 &mdash; Richard Facey
+
+<a href="./2024-challenge" style="
+    padding: 0.3em 0.5em;    
+    border: 2px solid green;
+    border-radius: 0.5em;
+    background-color: green;
+    color: white;
+    font-size: 2em;
+">In September 2024, local hero and heart-throb, Steve Eastwood, will be attempting to ride all fifty climbs in 1 go.
+Find out more here
+ </a>
