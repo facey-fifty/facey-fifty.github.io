@@ -20,6 +20,7 @@ after: |
 
 <a href="./2024-challenge" style="
     padding: 0.3em 0.5em;    
+    display: block;
     border: 2px solid green;
     border-radius: 0.5em;
     background-color: green;
