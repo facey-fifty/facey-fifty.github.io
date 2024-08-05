@@ -25,6 +25,6 @@ after: |
     background-color: green;
     color: white;
     font-size: 2em;
-">In September 2024, local hero and heart-throb, Steve Eastwood, will be attempting to ride all fifty climbs in 1 go.
-Find out more here
+">In September 2024, local hero, and heart-throb, Steve Eastwood will be attempting to ride all fifty climbs in one go!
+Find out more here...
  </a>

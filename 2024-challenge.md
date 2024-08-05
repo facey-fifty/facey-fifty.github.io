@@ -7,7 +7,7 @@ Of course, Steve's not doing this just for the love of crazy cycling challenges,
 
 On the day, we'll have live tracking.
 
-If you want to support/encourage Steve, then please visit (his justgiving.com page)[https://www.justgiving.com/page/steven-eastwood-1714080967580]
+If you want to support/encourage Steve, then please visit [his justgiving.com page](https://www.justgiving.com/page/steven-eastwood-1714080967580)
 
 <a href="https://www.justgiving.com/page/steven-eastwood-1714080967580" style="
     padding: 0.3em 0.5em;
@@ -18,3 +18,5 @@ If you want to support/encourage Steve, then please visit (his justgiving.com pa
     color: white;
     font-size: 2em;
 ">Donate now</a>
+
+[!Logo for the challenge](/assets/2020-challenge/logo.webp)
