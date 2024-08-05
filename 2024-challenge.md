@@ -19,4 +19,4 @@ If you want to support/encourage Steve, then please visit [his justgiving.com pa
     font-size: 2em;
 ">Donate now</a>
 
-[!Logo for the challenge](/assets/2020-challenge/logo.webp)
+[!Logo for the challenge]({{ "/assets/2020-challenge/logo.webp" | relative_url }})
