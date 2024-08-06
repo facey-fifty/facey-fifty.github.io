@@ -24,4 +24,5 @@ If you want to support/encourage Steve, then please visit [his justgiving.com pa
 
 <img src="{{ "/assets/2024-challenge/logo.webp" | relative_url }}" alt="" />
 
-<div class="fb-page" data-href="https://www.facebook.com/profile.php?id=61558610325430" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/profile.php?id=61558610325430" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/profile.php?id=61558610325430">Follow Facey Fifty Challenge on Facebook</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/profile.php?id=61558610325430" data-tabs="timeline" data-width="500" data-height="" 
+data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/profile.php?id=61558610325430" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/profile.php?id=61558610325430">Follow Facey Fifty Challenge on Facebook</a></blockquote></div>
