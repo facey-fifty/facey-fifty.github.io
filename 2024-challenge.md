@@ -1,6 +1,9 @@
 ---
 ---
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v20.0" nonce="NNEvzc8h"></script>
+
 On the 14th September 2024, Huddersfield Star Wheelers member Steve Eastwood will attempt to ride each of the fifty climbs in order, without descending the same road more than once, and only making u-turns at Castle Hill and Holme Moss - all other climbs will see Steve adding extra distance (and elevation!) in order to arrive at the next climb.
 
 Of course, Steve's not doing this just for the love of crazy cycling challenges, but also to raise money for Holme Valley Mountain Rescue Team.  Steve has always been passionate about cycling and has witnessed first-hand the importance of mountain rescue teams.
@@ -20,3 +23,5 @@ If you want to support/encourage Steve, then please visit [his justgiving.com pa
 ">Donate now</a>
 
 <img src="{{ "/assets/2024-challenge/logo.webp" | relative_url }}" alt="" />
+
+<div class="fb-page" data-href="https://www.facebook.com/profile.php?id=61558610325430" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/profile.php?id=61558610325430" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/profile.php?id=61558610325430">Follow Facey Fifty Challenge on Facebook</a></blockquote></div>
