@@ -6,6 +6,8 @@
 
 On the 14th September 2024, Huddersfield Star Wheelers member Steve Eastwood will attempt to ride each of the fifty climbs in order, without descending the same road more than once, and only making u-turns at Castle Hill and Holme Moss - all other climbs will see Steve adding extra distance (and elevation!) in order to arrive at the next climb.
 
+The climbs total 199 miles or 336 km and involve an elevation of some 9,000 metres. High points include the cyclists’ nemesis [Holme Moss](/climbs/44-Holme-Moss,-Holmbridge.html) and [Castle Hill](/climbs/21-Lockwood-Scar-Jackroyd-Lane,-Lockwood-to-Castle-Hill.html).
+
 Of course, Steve's not doing this just for the love of crazy cycling challenges, but also to raise money for Holme Valley Mountain Rescue Team.  Steve has always been passionate about cycling and has witnessed first-hand the importance of mountain rescue teams.
 
 On the day, we'll have live tracking.
