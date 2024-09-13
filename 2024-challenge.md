@@ -10,7 +10,7 @@ The climbs total 199 miles or 336 km and involve an elevation of some 9,000 metr
 
 Of course, Steve's not doing this just for the love of crazy cycling challenges, but also to raise money for Holme Valley Mountain Rescue Team.  Steve has always been passionate about cycling and has witnessed first-hand the importance of mountain rescue teams.
 
-On the day, we'll have live tracking.
+🗺 Live tracking - https://live.kongtracking.com/FFC2024/
 
 If you want to support/encourage Steve, then please visit [his justgiving.com page](https://www.justgiving.com/page/steven-eastwood-1714080967580)
 
