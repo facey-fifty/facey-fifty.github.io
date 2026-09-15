@@ -1,15 +1,15 @@
 ---
 ---
 
- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
-   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-   crossorigin=""/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OrdnanceSurvey/os-api-branding@latest/os-api-branding.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" />
 
 
-
-<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
-   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
-   crossorigin=""></script>
+<script src="https://cdn.jsdelivr.net/gh/OrdnanceSurvey/os-api-branding@latest/os-api-branding.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+<script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.3/leaflet-maplibre-gl.js"></script>
    <script src="https://unpkg.com/@mapbox/polyline@1.1.0/src/polyline.js"
    integrity="sha384-IDEhh/gOCXy+ASeq3Kr88jdsZ5XSXKUvq9WTPOGjKIZlEiZiJAZwd+GAnY3XDqLW"
    crossorigin=""></script>
@@ -32,14 +32,9 @@
        ]
 
        const myMap = L.map('map').setView([53.6077, -1.8079], 12);     
-       L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}{r}?access_token={accessToken}', {
-            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-            maxZoom: 18,
-            id: 'mapbox/outdoors-v11',
-            tileSize: 512,
-            zoomOffset: -1,
-            accessToken: 'pk.eyJ1IjoiZGF2aWRhcmtlbXAiLCJhIjoidUkwVnZIWSJ9.mCLcitoDx8zvccKNS6-tEA'
-        }).addTo(myMap);
+       const gl = L.maplibreGL({
+              style: 'https://api.os.uk/maps/vector/v1/vts?key=GfOkV72w6RR64DyYyLgI48arbXCxEdJK'
+          }).addTo(myMap);
        
        let mapBounds = myMap.getBounds();
        for(var i = 0; i < routes.length; ++i) {
