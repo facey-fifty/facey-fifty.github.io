@@ -15,7 +15,31 @@
 <script type="module">
     import * as maplibregl from 'https://unpkg.com/maplibre-gl@6.9.1/dist/maplibre-gl.mjs';
     import polyline from 'https://esm.unpkg.com/@mapbox/polyline@1.2.1/src/polyline.js';
+    const apiKey = 'GfOkV72w6RR64DyYyLgI48arbXCxEdJK';
 
+    const map = new maplibregl.Map({
+        container: 'map',
+        minZoom: 6,
+        maxZoom: 18,
+        style: 'https://api.os.uk/maps/vector/v1/vts/resources/styles?srs=3857&key=' + apiKey,
+        maxBounds: [
+            [ -10.76418, 49.528423 ],
+            [ 1.9134116, 61.331151 ]
+        ],
+        center: [ -2.968, 54.425 ],
+        zoom: 13,
+        attributionControl: false
+    });
+
+    map.dragRotate.disable(); // Disable map rotation using right click + drag.
+    map.touchZoomRotate.disableRotation(); // Disable map rotation using touch rotation gesture.
+
+    // Add navigation control (excluding compass button) to the map.
+    map.addControl(new maplibregl.NavigationControl({
+        showCompass: false
+    }));
+</script>
+<!--
    const routes = [
         {%- for route in site.the_routes -%}
          {
@@ -61,3 +85,4 @@
     });
 </script>
 
+-->
