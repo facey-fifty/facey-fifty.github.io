@@ -17,17 +17,25 @@
     import polyline from 'https://esm.unpkg.com/@mapbox/polyline@1.2.1/src/polyline.js';
     const apiKey = 'GfOkV72w6RR64DyYyLgI48arbXCxEdJK';
 
+    const routes = [
+        {%- for route in site.the_routes -%}
+         {
+             "title": {{ route.title | jsonify }},
+             "url": {{ route.url | relative_url | jsonify }},
+             "polyline": {{ route.polyline  | jsonify }}
+         }
+         {%- unless forloop.last -%},{%- endunless -%}
+         {%- endfor -%}
+    ];
+
     const map = new maplibregl.Map({
         container: 'map',
         minZoom: 6,
         maxZoom: 18,
         style: 'https://api.os.uk/maps/vector/v1/vts/resources/styles?srs=3857&key=' + apiKey,
-        maxBounds: [
-            [ -10.76418, 49.528423 ],
-            [ 1.9134116, 61.331151 ]
-        ],
-        center: [ -2.968, 54.425 ],
-        zoom: 13,
+        
+        center: [-1.8079, 53.6077 ],
+        zoom: 11,
         attributionControl: false
     });
 
@@ -38,18 +46,49 @@
     map.addControl(new maplibregl.NavigationControl({
         showCompass: false
     }));
+
+
+    map.on('load', () => {
+       for(var i = 0; i < routes.length; ++i) {
+          let route = routes[i];
+          map.addSource(`route-${i}`, {
+                 'type': 'geojson',
+                 'data': {
+                     'type': 'Feature',
+                     'properties': {},
+                     'geometry': {
+                         'type': 'LineString',
+                         'coordinates': polyline.decode(route.polyline).map(([lat,lng]) => [lng,lat])
+                     }
+                 }
+             });
+          map.addLayer({
+              'id': `route-${i}`,
+              'type': 'line',
+              'source': `route-${i}`,
+              'paint': {
+                  'line-color': '#F00',
+                  'line-width': 2
+              }
+          });
+
+          
+       }
+
+    let sources = routes.map((_, i) => map.getSource(`route-${i}`));
+          
+          Promise.all(sources.map(s => s.getBounds())).then(bounds => {
+            const extents = bounds.reduce((accumulator, currentValue) => (accumulator??currentValue).extend(currentValue))
+            map.fitBounds(extents, {padding: { top: 10, right: 10, bottom: 10, left: 10 }});
+          })
+          
+          
+          
+
+    });
 </script>
 <!--
-   const routes = [
-        {%- for route in site.the_routes -%}
-         {
-             "title": {{ route.title | jsonify }},
-             "url": {{ route.url | relative_url | jsonify }},
-             "polyline": {{ route.polyline  | jsonify }}
-         }
-         {%- unless forloop.last -%},{%- endunless -%}
-         {%- endfor -%}
-    ];
+   
 
     const map = new maplibregl.Map({
         container: 'the-map', // container id
