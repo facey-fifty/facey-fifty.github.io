@@ -10,7 +10,7 @@
 
 
 <script src="https://cdn.jsdelivr.net/gh/OrdnanceSurvey/os-api-branding@latest/os-api-branding.js"></script>
-<div id="map" style="height: 50vh">
+<div id="the-map" style="height: 50vh">
 </div>
 <script type="module">
     import * as maplibregl from 'https://unpkg.com/maplibre-gl@6.9.1/dist/maplibre-gl.mjs';
@@ -28,7 +28,7 @@
     ];
 
     const map = new maplibregl.Map({
-        container: 'map', // container id
+        container: 'the-map', // container id
         style: 'https://api.os.uk/maps/vector/v1/vts/resources/styles?srs=3857&key=GfOkV72w6RR64DyYyLgI48arbXCxEdJK', // style URL
         center: [53.6077, -1.8079], // starting position [lng, lat]
         zoom: 12 // starting zoom
