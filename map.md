@@ -37,7 +37,7 @@
     map.on('load', () => {
        for(var i = 0; i < routes.length; ++i) {
           let route = routes[i];
-          map.addSource(`route-{i}`, {
+          map.addSource(`route-${i}`, {
                  'type': 'geojson',
                  'data': {
                      'type': 'Feature',
@@ -49,9 +49,9 @@
                  }
              });
           map.addLayer({
-              'id': `route-{i}`,
+              'id': `route-${i}`,
               'type': 'line',
-              'source': `route-{i}`,
+              'source': `route-${i}`,
               'paint': {
                   'line-color': '#888',
                   'line-width': 2
