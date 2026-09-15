@@ -36,7 +36,7 @@
 
     map.on('load', () => {
        for(var i = 0; i < routes.length; ++i) {
-          route = routes[i];
+          let route = routes[i];
           map.addSource(`route-{i}`, {
                  'type': 'geojson',
                  'data': {
