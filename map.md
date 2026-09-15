@@ -10,11 +10,6 @@
 
 
 <script src="https://cdn.jsdelivr.net/gh/OrdnanceSurvey/os-api-branding@latest/os-api-branding.js"></script>
-   <script src="https://unpkg.com/@mapbox/polyline@1.1.0/src/polyline.js"
-   integrity="sha384-IDEhh/gOCXy+ASeq3Kr88jdsZ5XSXKUvq9WTPOGjKIZlEiZiJAZwd+GAnY3XDqLW"
-   crossorigin=""></script>
-<script src="https://unpkg.com/leaflet.icon.glyph@0.3.0/Leaflet.Icon.Glyph.js"></script>
-
 <div id="map" style="height: 50vh">
 </div>
 <script type="module">
@@ -49,7 +44,7 @@
                      'properties': {},
                      'geometry': {
                          'type': 'LineString',
-                         'coordinates': polyline.decode(route.polyline);
+                         'coordinates': polyline.decode(route.polyline)
                      }
                  }
              });
