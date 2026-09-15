@@ -14,7 +14,7 @@
 </div>
 <script type="module">
     import * as maplibregl from 'https://unpkg.com/maplibre-gl@6.9.1/dist/maplibre-gl.mjs';
-    import * as polyline from 'https://unpkg.com/@mapbox/polyline@1.2.1/src/polyline.js';
+    import polyline from 'https://esm.unpkg.com/@mapbox/polyline@1.2.1/src/polyline.js';
 
    const routes = [
         {%- for route in site.the_routes -%}
